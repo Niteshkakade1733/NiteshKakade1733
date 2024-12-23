@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkakade1733" alt="Your Name"/> </p>
 
-<h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/[niteshkakade1733]/[your-repo]/blob/main/Assets/Developer.gif" width="80px"> </h1>
+<h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/Niteshkakade1733/niteshkakade1733/blob/main/Assets/Developer.gif" width="80px"> </h1>
 
 <h3 align="center">
 I'm an SAP BASIS and SAP HANA Consultant with over 3 years of experience in managing and optimizing SAP systems. My expertise spans across SAP ECC, S/4 HANA, System Monitoring, Database Administration, and Performance Optimization. I'm passionate about delivering high-quality solutions, ensuring system uptime, and driving operational excellence.
@@ -9,8 +9,8 @@ I'm an SAP BASIS and SAP HANA Consultant with over 3 years of experience in mana
 <p> </p>
 
 <p> 
-  <a align="left" href="https://www.linkedin.com/in/[your-linkedin-profile]" target="blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="[Your Name]" /></a> 
-  <a align="right" href="https://twitter.com/[your-twitter-handle]" target="blank"><img src="https://img.shields.io/twitter/follow/[your-twitter-handle]?logo=twitter&style=for-the-badge" alt="[Your Name]" /></a>
+  <a align="left" href="https://www.linkedin.com/in/nitesh--kakade" target="blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="NITESH KAKADE" /></a> 
+  <a align="right" href="https://twitter.com/niteshkakade173" target="blank"><img src="https://img.shields.io/twitter/follow/niteshkakade173?logo=twitter&style=for-the-badge" alt="NITESH KAKADE" /></a>
 </p>
 
 <img align="right" width=300px alt="Github Cat" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />

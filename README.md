@@ -27,7 +27,7 @@ I'm an SAP BASIS and SAP HANA Consultant with over 3 years of experience in mana
 
 - 📫 You can reach me at **[Niteshkakade1733@gmail.com]**
 
-- 📄 Know more about my work and experience in [My Resume](#)
+- 📄 Know more about my work and experience in [My Resume](https://drive.google.com/file/d/1EKcPjKcw1Sror-NcbcD2kbN_XuHxgr6W/view?usp=sharing)
 
 - **GitHub**: [Your GitHub](https://github.com/niteshkakade1733)  
 - In my spare time, I enjoy **exploring new places** and learning about **emerging SAP technologies**.
